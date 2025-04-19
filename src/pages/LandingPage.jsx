@@ -4,7 +4,7 @@ import { Link } from 'react-router';
 const LandingPage = () => {
   return (
     <div style={{ textAlign: 'center', padding: '50px' }}>
-      <h1>Welcome to React Evaluation</h1>
+      <h1>Welcome MyCourse</h1>
       <p>Your one-stop platform for managing and exploring courses.</p>
       <div style={{ marginTop: '20px' }}>
         <Link to="/courses">
